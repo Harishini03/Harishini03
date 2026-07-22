@@ -2,9 +2,9 @@
 
 # Hi, I'm Harishini S 👋
 
-### Computer Science & Business Systems · Curious Learner
+### Computer Science & Business Systems 
 
-I enjoy exploring new technologies and building projects that solve real problems, with a strong interest in **Data Analytics and Business Intelligence**.
+I enjoy exploring new technologies and building projects that solve real problems, with a strong interest in **Software Development , Data Analytics and Business Intelligence**.
 Currently focused on **Python, Java, and AI-powered tools**.
 
 </div>

@@ -2,9 +2,9 @@
 
 # Hi, I'm Harishini S 👋
 
-### Fresher · Aspiring Developer · Curious Learner
+### Computer Science & Business Systems · Curious Learner
 
-I enjoy exploring new technologies and building projects that solve real problems.
+I enjoy exploring new technologies and building projects that solve real problems, with a strong interest in **Data Analytics and Business Intelligence**.
 Currently focused on **Python, Java, and AI-powered tools**.
 
 </div>
@@ -13,7 +13,8 @@ Currently focused on **Python, Java, and AI-powered tools**.
 
 ## 🌱 About Me
 
-- 🎓 Fresher, eager to learn and build real-world projects
+- 🎓 From a Computer Science & Business Systems background, blending tech with business insight
+- 📊 Passionate about turning data into decisions through Data Analytics and Business Intelligence
 - 🔭 Currently exploring AI-powered tools, Python, and Java
 - 🌍 Interested in AI/ML, backend development, and data-driven systems
 - 💡 I believe every bug is just a lesson wearing a disguise
@@ -39,6 +40,13 @@ Currently focused on **Python, Java, and AI-powered tools**.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Data Analytics & Business Intelligence**
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 </div>
 

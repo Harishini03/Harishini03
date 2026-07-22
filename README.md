@@ -2,7 +2,7 @@
 
 # Hi, I'm Harishini S 👋
 
-### Computer Science & Business Systems Under Graduate
+### Computer Science & Business Systems | Undergraduate
 
 I enjoy exploring new technologies and building projects that solve real problems, with a strong interest in **Software Development , Data Analytics and Business Intelligence**.
 Currently focused on **Python, Java, and AI-powered tools**.

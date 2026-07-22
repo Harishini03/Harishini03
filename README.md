@@ -1,42 +1,97 @@
+<div align="center">
+
 # Hi, I'm Harishini S 👋
 
-**Fresher | Aspiring Developer | Curious Learner**
+### Fresher · Aspiring Developer · Curious Learner
 
-I enjoy exploring new technologies and building projects that solve real problems. Currently focused on Python, Java, and AI-powered tools.
+I enjoy exploring new technologies and building projects that solve real problems.
+Currently focused on **Python, Java, and AI-powered tools**.
 
----
+</div>
+
+<br>
 
 ## 🌱 About Me
 
 - 🎓 Fresher, eager to learn and build real-world projects
 - 🔭 Currently exploring AI-powered tools, Python, and Java
 - 🌍 Interested in AI/ML, backend development, and data-driven systems
+- 💡 I believe every bug is just a lesson wearing a disguise
 - 📫 Open to internships, collaborations, and interesting projects
 
----
+<br>
 
 ## 🛠️ Skills
 
-**Languages:** Python · Java · JavaScript · HTML · CSS
+<div align="center">
 
-**Tools & Platforms:** Git · GitHub · VS Code · MySQL
+**Languages**
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Tools & Platforms**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+</div>
+
+<br>
 
 ## 📌 Projects
 
-- **[AI-Powered Code Search Engine](https://github.com/Harishini03/-AI-Powered-Code-Search-Engine)** — A smart code search tool built with Python
-- **[Dialexa](https://github.com/Harishini03/Dialexa)** — A multilingual text translator
-- **[Skillora](https://github.com/Harishini03/Skillora)** — A placement intelligence and monitoring system
-- **[Unified Military Analytics Dashboard](https://github.com/Harishini03/Unified-Military-Analytics-Dashboard)** — A data analytics dashboard
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🔍 [AI-Powered Code Search Engine](https://github.com/Harishini03/-AI-Powered-Code-Search-Engine)
+A smart code search tool built with Python.
+<br>`Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 [Dialexa](https://github.com/Harishini03/Dialexa)
+A multilingual text translator.
+<br>`Java`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 [Skillora](https://github.com/Harishini03/Skillora)
+A placement intelligence and monitoring system.
+<br>`Java`
+
+</td>
+<td width="50%" valign="top">
+
+### 🪖 [Unified Military Analytics Dashboard](https://github.com/Harishini03/Unified-Military-Analytics-Dashboard)
+A data analytics dashboard.
+<br>`Python`
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## 🤝 Connect With Me
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harishini-s-512b882b8)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishini195@gmail.com)
 
----
+<br>
 
 *Still learning, still growing 🌱 — one commit at a time.*
+
+</div>

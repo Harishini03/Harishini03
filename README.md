@@ -87,15 +87,6 @@ A data analytics project focused on comparing military capabilities through dash
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### ☕ [Hexaware Java Foundation Training](https://github.com/Harishini03/Hexaware-Java-Foundation-Training-2027)
-A collection of Java, SQL, and Agile training assignments with explanations and implementation notes.
-<br>`Java` `SQL` `Agile` `Scrum`
-
-</td>
-</tr>
 </table>
 
 <br>

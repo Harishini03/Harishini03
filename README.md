@@ -95,12 +95,6 @@ A collection of Java, SQL, and Agile training assignments with explanations and 
 <br>`Java` `SQL` `Agile` `Scrum`
 
 </td>
-<td width="50%" valign="top">
-
-### 🧠 [AI Project Monitoring & Risk Prediction](#)
-Research direction: applying data-driven methods to identify project risks and predict delays.
-
-</td>
 </tr>
 </table>
 
